@@ -1,6 +1,6 @@
 # 🤖 Álgebra-lineal
 
-Serie de 4 webinars diseñados para profundizar sobre el aprendizaje supervisado
+Serie de 4 webinars diseñados para profundizar sobre Álgebra lineal
 
 ---
 
@@ -8,7 +8,7 @@ Serie de 4 webinars diseñados para profundizar sobre el aprendizaje supervisado
 
 | # | Tipo | Tema | Slides | Notebook |
 |---|------|------|--------|----------|
-| 1 | Teoría | Vectores y operaciones | [Ver slides](https://docs.google.com/presentation/d/1lSqfiDbenr8eCDGZ3VcZWS8J1e69Y26W/edit?usp=sharing&ouid=109256361824235035193&rtpof=true&sd=true) | [Ver notebook]() |
+| 1 | Teoría | Vectores y operaciones | [Ver slides](https://docs.google.com/presentation/d/1lSqfiDbenr8eCDGZ3VcZWS8J1e69Y26W/edit?usp=sharing&ouid=109256361824235035193&rtpof=true&sd=true) | [Ver notebook](https://github.com/CatherineCabreraTT24/S14-Algebra-lineal/blob/main/Webinar_1/webinar1_vectores.ipynb) |
 | 2 | Teoría | Matrices y operaciones | [Ver slides](https://docs.google.com/presentation/d/1leOQlLEbNgPxqMVoAyEduT1HJoDsiev-/edit?usp=sharing&ouid=109256361824235035193&rtpof=true&sd=true) | [Ver notebook]() |
 | 3 | Práctica | KNN | [Ver slides](https://docs.google.com/presentation/d/1qrSs2dplu-DEW5_9rSJDMUWg2FQ-phnF/edit?usp=sharing&ouid=109256361824235035193&rtpof=true&sd=true) | [Ver notebook]() |
 | 4 | Práctica | Regresión Lineal Deep Dive | [Ver slides](https://docs.google.com/presentation/d/1Ki2a1id912wDCcR_hwuZgRsPo8jn09cg/edit?usp=sharing&ouid=109256361824235035193&rtpof=true&sd=true) | [Ver notebook]() |
